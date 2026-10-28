@@ -1,0 +1,23 @@
+{
+  "n_test": 127008,
+  "persistence": {
+    "MAE_min": 5.674,
+    "RMSE_min": 9.34,
+    "MAPE_pct": 18.924
+  },
+  "historical_average_hour_daytype": {
+    "MAE_min": 2.462,
+    "RMSE_min": 5.238,
+    "MAPE_pct": 8.229
+  },
+  "historical_average_hour_only": {
+    "MAE_min": 3.235,
+    "RMSE_min": 6.425,
+    "MAPE_pct": 10.566
+  },
+  "historical_average_hour_dayofweek": {
+    "MAE_min": 2.704,
+    "RMSE_min": 5.614,
+    "MAPE_pct": 9.046
+  }
+}

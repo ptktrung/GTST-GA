@@ -1,0 +1,8 @@
+{
+  "mst_km": 91.36,
+  "two_shortest_depot_arcs_km": [
+    0.703,
+    1.634
+  ],
+  "lower_bound_km": 93.7
+}

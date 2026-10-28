@@ -1,0 +1,16 @@
+{
+  "disrupted_arcs": {
+    "n": 156,
+    "MAE_min": 65.684,
+    "MAPE_pct": 55.572,
+    "mean_forecast_over_truth": 0.444
+  },
+  "other_arcs": {
+    "n": 600,
+    "MAE_min": 5.094,
+    "MAPE_pct": 13.129,
+    "mean_forecast_over_truth": 1.1
+  },
+  "min_forecast_ratio_to_free_flow": 1.482,
+  "share_arcs_forecast_above_free_flow": 1.0
+}

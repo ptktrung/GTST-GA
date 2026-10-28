@@ -1,0 +1,70 @@
+{
+  "Static-GA": {
+    "n": 30,
+    "time_mean": 646.19,
+    "time_sd": 53.75,
+    "energy_mean": 1115.3,
+    "energy_sd": 126.86,
+    "dist_mean": 143.42,
+    "dist_sd": 3.82,
+    "wilcoxon_p_vs_GTST-GA": 1.862645149230957e-08
+  },
+  "GTST-GA": {
+    "n": 30,
+    "time_mean": 581.0,
+    "time_sd": 33.27,
+    "energy_mean": 956.28,
+    "energy_sd": 71.33,
+    "dist_mean": 142.29,
+    "dist_sd": 4.06
+  },
+  "Oracle-GA": {
+    "n": 30,
+    "time_mean": 564.66,
+    "time_sd": 21.95,
+    "energy_mean": 881.24,
+    "energy_sd": 33.66,
+    "dist_mean": 152.09,
+    "dist_sd": 8.05,
+    "wilcoxon_p_vs_GTST-GA": 0.029325857758522034
+  },
+  "Ablation-NoMemetic": {
+    "n": 30,
+    "time_mean": 592.5,
+    "time_sd": 25.62,
+    "energy_mean": 968.47,
+    "energy_sd": 53.52,
+    "dist_mean": 147.04,
+    "dist_sd": 4.78,
+    "wilcoxon_p_vs_GTST-GA": 0.17719271034002304
+  },
+  "Ablation-SwapMutation": {
+    "n": 30,
+    "time_mean": 708.64,
+    "time_sd": 96.74,
+    "energy_mean": 1221.38,
+    "energy_sd": 240.06,
+    "dist_mean": 157.78,
+    "dist_sd": 4.32,
+    "wilcoxon_p_vs_GTST-GA": 1.919722783767457e-06
+  },
+  "2opt-Oropt": {
+    "n": 30,
+    "time_mean": 567.11,
+    "time_sd": 37.66,
+    "energy_mean": 947.41,
+    "energy_sd": 91.71,
+    "dist_mean": 134.88,
+    "dist_sd": 1.26,
+    "wilcoxon_p_vs_GTST-GA": 0.12043491695112332
+  },
+  "Predictive-Greedy": {
+    "n": 1,
+    "time_mean": 871.97,
+    "time_sd": 0.0,
+    "energy_mean": 1639.85,
+    "energy_sd": 0.0,
+    "dist_mean": 154.86,
+    "dist_sd": 0.0
+  }
+}
